@@ -25,33 +25,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
       
 
 /*============== INFO OWNER ==============*/
-global.sig = 'https://instagram.com/zallzall02'
-global.syt = 'https://youtube.com/channel/UC28pUSJ1MyZhqGL_lamNQRw'
-global.sgh = 'https://github.com/rizalmhmd'
-global.sgc = 'https://chat.whatsapp.com/JytIVwVnOCIFQBA93eZEXu'
-global.swa = 'wa.me/6281333154367'
-global.swb = 'https://discord.gg/4HvezMAw'
+global.sig = 'https://instagram.com/sadboy.edtz'
+global.syt = '-'
+global.sgh = 'https://github.com/Bambang-Gans'
+global.sgc = 'https://chat.whatsapp.com/Jb3PiLpVnPv2weOM0fVvC4'
+global.swa = 'wa.me/62895412691100'
+global.swb = 'https://discord.gg/'
 global.snh = 'https://nhentai.net/g/365296/' //Make ini aja gausah di ganti.
 
 /*============== PAYMENT ==============*/
-global.pdana = '081333154367'
-global.povo = '081333154367'
-global.pgopay = '-'
-global.ppulsa = '081333154367'
-global.ppulsa2 = '081327238906'
+global.pdana = '087732200388'
+global.povo = '087732200388'
+global.pgopay = '087732200388'
+global.ppulsa = '087732200388'
+global.ppulsa2 = '087732200388'
 global.psaweria = '-'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6281333154367'
-global.nomorown = '6281333154367'
-global.nomorown1 = '6281333154367'
-global.namebot = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
-global.nameown = '𝚉𝚊𝚕𝚕'
+global.nomorbot = '087732200388'
+global.nomorown = '62895412691100'
+global.nomorown1 = '087732200388'
+global.namebot = 'BTR X-BOT OFFICIAL'
+global.nameown = 'PUNYA KIAAA'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-['6281333154367', '𝚉𝚊𝚕𝚕', true]
+['0895412691100', 'PUNYA KIAAA', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -101,16 +101,16 @@ global.bear = 'VBkM7rbU'
 
 
 /*============== WATERMARK ==============*/
-global.wm = 'By 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕' //Main Watermark
-global.wm2 = '𝚉𝚊𝚕𝚕'
-global.wm3 = '𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 | By 𝚉𝚊𝚕𝚕'
+global.wm = 'By BTR X-BOT OFFICIAL' //Main Watermark
+global.wm2 = 'BTR X-BOT OFFICIAL'
+global.wm3 = 'BTR X-BOT OFFICIAL | By PUNYA KIAAA'
 global.botdate = `⻝ 𝗗𝗮𝘁𝗲: ${week} ${date}\n⻝ 𝗧𝗶𝗺𝗲: ${wktuwib}`
 global.bottime = `⻝ 𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
 global.titlebot = `𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 | ʙʏ ${global.nameown}`
-global.author = '𝚉𝚊𝚕𝚕' 
+global.author = 'PUNYA KIAA' 
 global.packname = '𝚉𝚊𝚕𝚕'
 global.danied = '✘ 𝗘𝗥𝗢𝗥 𝟰𝟬𝟰'
-global.ultahowner = 'Juli 11 2022'
+global.ultahowner = 'Juli 12 2023'
 
 
 /*============== LOGO ==============*/
@@ -124,14 +124,14 @@ global.thumbs = ['https://telegra.ph/file/7db49c83fd106a60741cd.jpg']
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=sketch-name&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&fillTextType=1&fillTextPattern=Warning!&text='
 global.thumbBanned = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
 global.thumbWarn = 'https://telegra.ph/file/a5eb5169ab1330a537e0b.jpg'
-global.botintro = 'Hallo, Kenalin saya 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕 Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh 𝚉𝚊𝚕𝚕 Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
+global.botintro = 'Hallo, Kenalin saya BTR X-BOT OFFICIAL Saya akan membantu Anda kapan pun & Dimana pun, Saya asisten bot WhatsApp yang di buat oleh KIAAA Saya di rilis pada tanggal\n🗓 ️_16/10/2022_'
 global.intro = 'https://telegra.ph/file/6ab4daac226292a112540.jpg'
 /*============== GLOBAL BIO ==============*/
 global.nameowner = '𝚉𝚊𝚕𝚕'
 global.umurowner = 'Ptivate'
 global.asalowner = 'Private'
-global.nomorowner = 'wa.me/6281333154367'
-global.pacarowner = 'Hamba Allah'
+global.nomorowner = 'wa.me/62895412691100'
+global.pacarowner = 'KIAAA'
 
 /*============== TEXT ==============*/
 global.wait = '```𝙇𝙤𝙖𝙙𝙞𝙣𝙜...```'
@@ -385,8 +385,8 @@ global.hwaifu = ['https://i.pinimg.com/originals/ed/34/f8/ed34f88af161e6278993e1
 'https://i.pinimg.com/originals/fd/21/41/fd21419275236bb153de3c8dcbbf3bf9.jpg',
 'https://i.pinimg.com/originals/80/4f/1a/804f1a05f9996c96a2d492b4854b7fd5.jpg']
 /*============== STICKER WM ==============*/
-global.stickpack = 'By 𝙕𝘼𝙇𝙇𝙭𝘽𝙊𝙏𝙕'
-global.stickauth = `𝚉𝚊𝚕𝚕`
+global.stickpack = 'By BTR X-BOT OFFICIAL'
+global.stickauth = `PUNYA KIAAA`
 
 global.multiplier = 38 // The higher, The harder levelup
 
